@@ -12,4 +12,7 @@ opencv
 
 # 実行方法
 
+    $ `git clone https://github.com/kaitoyamazaki/rov_kadai2.git`
+    $ `python3 synth.py`
+
 
